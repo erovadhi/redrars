@@ -1,0 +1,1 @@
+[[Perbandingan Senilai dan Berbalik Nilai]][[Semester 1]][[Source]][[SPLDV]][[SPLSV]][[Aljabar]]

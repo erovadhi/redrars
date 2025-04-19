@@ -1,0 +1,2 @@
+[[OSI Layer]] [[TCP IP Protocol]] [[Hasil Kuis (Pengkabelan)]] 
+Jaringan komputer adalah hubungan antara 1 atau lebih komputer yang dapat berbagi sumber daya. Sumber daya komputer yang dapat dibagi berupa hardware atau software (data) ke komputer lain. Metode ini bermula dari program pertahanan Amerika Serikat yaitu ARPANET.![[Pasted image 20240426195823.png]]

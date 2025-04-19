@@ -1,0 +1,8 @@
+# 1. Teori Arus Balik
+Teori Arus Balik dikemukakan oleh **F.D.K Bosch**. Teori ini berasumsi bahwa perkembangan ajaran Hindu-Buddha yang pesat di India, kabarnya sampai terdengar sampai ke Nusantara, dan kemudian menarik minat para **kaum terpelajar di Nusantara untuk berguru ke India**. Setelah mereka berguru dan pulang ke Nusantara, mereka mulai menyebarkan agama baru yang mereka pelajari di sana sebagai pemuka agama dan pendeta.
+# 2. Teori Waisya
+Teori Waisya dikemukakan oleh **N.J.Krom.** Teori ini menyebutkan bahwa para **pedagang yang beragama Hindu-Buddha lah penyebar utama agama tersebut di Nusantara**. Karena perdagangan pada zaman dahulu menggunakan jalur laut dan bergantung pada angin. Ketika para pedagang ini menetap di Nusantara, mereka berinteraksi sekaligus memperkenalkan agama dan kepercayaannya kepada masyarakat.
+# 3. Teori Kesatria
+Teori Kesatria dikemukakan oleh **C.C. Berg, Mookerij, J.C. Moens**. Pada zaman masuknya Hindu-Buddha ke Nusantara, di daratan India dan China sedang berlangsung perang saudara. **Raja-raja yang kalah peperangan melarikan diri ke Nusantara** untuk berlindung. Lambat laun mereka mendirikan kerajaan kembali di Nusantara dengan corak-corak yang berhubungan dengan agama Hindu atau Buddha yang sebelumnya mereka anut.
+# 4. Teori Brahmana
+Teori Brahmana dikemukakan oleh **Van Leur**. Ia mengemukakan bahwa para **kaum brahmana** diundang datang ke Nusantara karena **ketertarikan raja-raja yang berkuasa dengan ajaran agama** **Hindu dan Buddha**. Sehingga raja-raja tersebut mendatangkan para kaum brahmana untuk mengajarkan agama Hindu-Budha tersebut untuk raja dan rakyatnya di Nusantara.

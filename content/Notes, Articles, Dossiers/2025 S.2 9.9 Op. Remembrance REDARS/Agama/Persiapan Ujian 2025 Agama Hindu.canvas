@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e376ad83d6c4006a","x":-66,"y":-152,"width":400,"height":400,"type":"file","file":"Notes, Articles, Dossiers/2025 S.2 9.9 Op. Remembrance REDARS/Agama/Upaweda.md"},
+		{"id":"a940a2654296237e","x":460,"y":23,"width":260,"height":50,"type":"text","text":"# **Materi-Materi**"}
+	],
+	"edges":[
+		{"id":"73541bf9517d67fb","fromNode":"a940a2654296237e","fromSide":"left","toNode":"e376ad83d6c4006a","toSide":"right"}
+	]
+}
